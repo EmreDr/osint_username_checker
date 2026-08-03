@@ -20,8 +20,8 @@ PLATFORMS = {
     } ,
     "X(new twitter)": {
         "url": "https://x.com/{username}",
-        "found_codes": [200],
-        "not_found_codes": [404],
+        "found_codes": [200,201],
+        "not_found_codes": [404,410],
         "redirect_codes": [301, 302, 307, 308],
         "blocked_codes": [403, 429],
         "rate_limited_codes": [409]
@@ -44,7 +44,7 @@ PLATFORMS = {
     },
     "Medium": {
         "url": "https://medium.com/@{username}",
-        "found_codes": [200],
+        "found_codes": [200,201,204],
         "not_found_codes": [404],
         "redirect_codes": [301, 302, 307, 308],
         "blocked_codes": [403, 429],

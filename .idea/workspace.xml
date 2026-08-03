@@ -7,9 +7,7 @@
     <list default="true" id="bba60038-19fc-4212-8b2d-832de653fdad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/platforms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variant_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/variant_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/logger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <updated>1785631484348</updated>
       <workItem from="1785631485370" duration="2270000" />
       <workItem from="1785718356290" duration="1647000" />
-      <workItem from="1785728477248" duration="4146000" />
+      <workItem from="1785728477248" duration="5497000" />
     </task>
     <servers />
   </component>
