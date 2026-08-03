@@ -1,7 +1,7 @@
 from typing import List
 
 SEPARATOR = ["",".",",","-","_"]
-SUFFIXIES = ["" , "0" , "real", "official"]
+SUFFIXIES = ["" , "0" , "real", "official",]
 
 def _base_candidates(parts : list) -> list:
     first, last = parts[0], parts[-1]
@@ -26,7 +26,8 @@ def generate_variants(full_name: str) -> List[str]:
 
     variants = set()
     for base in bases:
-        for suffix in SUFFIXIES:
-            variants.add(base + suffix)
+        for prefix in SUFFIXIES:
+            for suffix in SUFFIXIES:
+                variants.add(prefix + base + suffix)
 
     return sorted(variants)
