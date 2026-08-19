@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba60038-19fc-4212-8b2d-832de653fdad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/OSINT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OSINT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/platforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variant_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/variant_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/demre/Desktop/OSINT&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,6 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demre\PycharmProjects\OSINT" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,7 +74,12 @@
       <updated>1785631484348</updated>
       <workItem from="1785631485370" duration="2270000" />
       <workItem from="1785718356290" duration="1647000" />
-      <workItem from="1785728477248" duration="5497000" />
+      <workItem from="1785728477248" duration="12393000" />
+      <workItem from="1786715916372" duration="1438000" />
+      <workItem from="1786778856193" duration="2351000" />
+      <workItem from="1786915355462" duration="56000" />
+      <workItem from="1787128744419" duration="788000" />
+      <workItem from="1787129801642" duration="4969000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,14 @@
+{
+    "first":        "{first}",
+    "last":         "{last}",
+    "firstlast":    "{first}{last}",
+    "lastfirst":    "{last}{first}",
+    "first.last":   "{first}.{last}",
+    "last.first":   "{last}.{first}",
+    "first_last":   "{first}_{last}",
+    "first-last":   "{first}-{last}",
+    "flast":        "{f}{last}",
+    "lfirst":       "{l}{first}",
+    "initialslast": "{initials}{last}",
+    "initials":     "{initials}"
+}
