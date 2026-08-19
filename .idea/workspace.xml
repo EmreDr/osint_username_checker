@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bba60038-19fc-4212-8b2d-832de653fdad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/OSINT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OSINT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/platforms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variant_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/variant_generator.py" afterDir="false" />
-    </list>
+    <list default="true" id="bba60038-19fc-4212-8b2d-832de653fdad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +72,7 @@
       <workItem from="1786778856193" duration="2351000" />
       <workItem from="1786915355462" duration="56000" />
       <workItem from="1787128744419" duration="788000" />
-      <workItem from="1787129801642" duration="4969000" />
+      <workItem from="1787129801642" duration="5281000" />
     </task>
     <servers />
   </component>

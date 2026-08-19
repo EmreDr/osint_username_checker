@@ -2,7 +2,6 @@ import json
 from pathlib import Path
 from typing import Dict, List, Optional
 
-# Template placeholders: {first}, {last}, {f} (first initial), {l} (last initial), {initials}
 PATTERNS: Dict[str, str] = {
     "first":        "{first}",
     "last":         "{last}",
